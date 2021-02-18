@@ -42,7 +42,7 @@
     "diff": "^4.0.1",
     "doctrine-temporary-fork": "2.1.0",
     "get-port": "^5.0.0",
-    "git-url-parse": "^11.1.2",
+    "git-url-parse": "^11.4.4",
     "github-slugger": "1.2.0",
     "glob": "^7.1.2",
     "globals-docs": "^2.4.0",
